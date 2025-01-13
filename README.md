@@ -13,5 +13,5 @@ Titelbild: Sechsfleck-Widderchen (Zygaena filipendulae) aufgenommen am 22.August
 <a href="Tagfalterarten%20(Papilionoidea)%20der%20Region%20Hannover%20unter%20Ber%C3%BCcksichtigung%20von%20Beobachtungsplattformen%20und%20Publikation.pdf" class="image fit"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/PDF_file_icon.svg/267px-PDF_file_icon.svg.png" alt="" width="20" title="Tagfalterarten (Papilionoidea) der Region Hannover unter Berücksichtigung von Beobachtungsplattformen und Publikation"></a> 
  Tagfalterarten (Papilionoidea) der Region Hannover unter Berücksichtigung von Beobachtungsplattformen und Publikation
 
-<a href="Theuer%2C%20R.%20(2025).%20Schmetterlingsfauna%20im%20Garten.%20Ein%20Jahr%20der%20Beobachtung.pdf)" class="image fit"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/PDF_file_icon.svg/267px-PDF_file_icon.svg.png" alt="" width="20" title="Schmetterlingsfauna im Garten. Ein Jahr der Beobachtung"></a>
+<a href="Theuer%2C%20R.%20(2025).%20Schmetterlingsfauna%20im%20Garten.%20Ein%20Jahr%20der%20Beobachtung.pdf" class="image fit"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/PDF_file_icon.svg/267px-PDF_file_icon.svg.png" alt="" width="20" title="Schmetterlingsfauna im Garten. Ein Jahr der Beobachtung"></a>
 Theuer, R. (2025). Schmetterlingsfauna im Garten. Ein Jahr der Beobachtung
