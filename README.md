@@ -17,3 +17,6 @@ Falls die PDFs nicht angezeigt werden, nutzen Sie bitte den Chrome-Browser oder 
 
 <a href="Theuer%2C%20R.%20(2025).%20Schmetterlingsfauna%20im%20Garten.%20Ein%20Jahr%20der%20Beobachtung.pdf" class="image fit"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/PDF_file_icon.svg/267px-PDF_file_icon.svg.png" alt="" width="20" title="Schmetterlingsfauna im Garten. Ein Jahr der Beobachtung"></a>
 Theuer, R. (2025). Schmetterlingsfauna im Garten. Ein Jahr der Beobachtung
+
+<a href="Theuer%20R.%20(2026).%20Schmetterlingsfauna%20im%20Garten.%20Vergleichende%20Analyse%20der%20Lepidoptera-Diversität%20im%20Beobachtungsjahr%202025.pdf" class="image fit"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/PDF_file_icon.svg/267px-PDF_file_icon.svg.png" alt="" width="20" title="Schmetterlingsfauna im Garten. Vergleichende Analyse der Lepidoptera-Diversität im Beobachtungsjahr 2025"></a>
+Theuer R. (2026). Schmetterlingsfauna im Garten. Vergleichende Analyse der Lepidoptera-Diversität im Beobachtungsjahr 2025
